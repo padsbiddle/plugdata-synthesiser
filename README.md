@@ -44,3 +44,5 @@ Once loaded, activate the sequencer and select steps to build a pattern. The BPM
 ## Patch Screenshots
 
 ![Main patch](Plugdata_Synth_Back.png)
+![Main patch](Plugdata_Synth_FM.png)
+![Main patch](Plugdata_Synth_Metro.png)
