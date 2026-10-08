@@ -1,4 +1,4 @@
-# plugdata Synthesiser
+# Plugdata Synthesiser
 
 A polyphonic synthesiser built in plugdata (a Pure Data based environment) combining FM, additive and subtractive synthesis in a single interface, with 4-note polyphony via MIDI input. It includes an integrated ADSR envelope for shaping dynamics and a drum sequencer for creating rhythmic backing patterns.
 
