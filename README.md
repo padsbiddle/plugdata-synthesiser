@@ -5,7 +5,6 @@ A polyphonic synthesiser built in plugdata (a Pure Data based environment) combi
 ## Screenshot
 
 ![Main patch](Plugdata_Synth_GUI.png)
-![Main patch](Plugdata_Synth_Back.png)
 
 ## Requirements
 
@@ -41,3 +40,7 @@ Four waveforms can be selected and blended: sine, sawtooth, triangle and square.
 On opening the patch, use the load buttons to assign samples to each sequencer row. Kick, snare and hi-hat samples are NOT provided.
 
 Once loaded, activate the sequencer and select steps to build a pattern. The BPM control is on the right-hand side.
+
+## Patch Screenshots
+
+![Main patch](Plugdata_Synth_Back.png)
